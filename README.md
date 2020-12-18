@@ -14,3 +14,6 @@ Malzemeler :
 <li>40Pin Dişi Header</li>
 <li>40Pin Erkek Header</li>
 <li>Delikli Plaket</li>
+
+Devre Şeması :
+
