@@ -16,4 +16,4 @@ Malzemeler :
 <li>Delikli Plaket</li>
 <td>
 Devre Şeması :
-</td>
+
