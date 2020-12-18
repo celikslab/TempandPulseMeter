@@ -17,3 +17,5 @@ Malzemeler :
 
 Devre Şeması :
 
+
+![](https://github.com/mcelik7/CoronaMeter/blob/main/images/NABIZVESICAKLIK.png)
