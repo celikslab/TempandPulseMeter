@@ -15,7 +15,7 @@ Malzemeler :
 <li>40Pin Erkek Header</li>
 <li>Delikli Plaket</li>
 
-Devre Şeması :
+<br>Devre Şeması :
 
 
 ![](https://github.com/mcelik7/CoronaMeter/blob/main/images/NABIZVESICAKLIK.png)
