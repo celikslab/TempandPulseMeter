@@ -1,6 +1,9 @@
 # TempandPulseMeter
 ## Sıcaklık ve Nabız Ölçer 
 
+<p align="center">
+  <img width="500" height="350" src="https://github.com/celikslab/TempandPulseMeter/blob/main/images/Main.jpg">
+</p>
 
 ## Malzemeler :
 
@@ -18,7 +21,7 @@
 ## Devre Şeması :
 
 <p align="center">
-  <img width="500" height="350" src="https://github.com/mcelik7/CoronaMeter/blob/main/images/NABIZVESICAKLIK.png">
+  <img width="660" height="372" src="https://github.com/celikslab/TempandPulseMeter/blob/main/images/Schematic.png">
 </p>
 
 ## Kodlar :
