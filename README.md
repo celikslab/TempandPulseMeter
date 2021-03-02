@@ -5,6 +5,8 @@
   <img width="500" height="350" src="https://github.com/celikslab/TempandPulseMeter/blob/main/images/Main.jpg">
 </p>
 
+Önerilen bu yaklaşımın amacı, otomatik bir sağlık izleme sistemidir. Sıcaklık ve kalp atış hızı ile hastanın vücudu sürekli olarak kontrol edilir. Bu sistemde kullanılan gerekli bileşenler bir ATmega328p mikrodenetleyici, sıcaklık sensörü, nabız sensörü, lazer ve OLED ekrandır. Arduino burada hastanın sürekli verilerini kontrol eder eğer vücut ısısı normal sıcaklık oranından daha yüksek ise sesli uyarı(bip sesi) çıkarmaya başlar.
+
 ## Malzemeler :
 
 <li>Arduino Nano </li>
