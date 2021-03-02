@@ -1,5 +1,5 @@
 # TempandPulseMeter
-## Sıcaklık ve Nabız Ölçer 
+## Ateş ve Nabız Ölçer 
 
 <p align="center">
   <img width="500" height="350" src="https://github.com/celikslab/TempandPulseMeter/blob/main/images/Main.jpg">
@@ -28,3 +28,4 @@
 
 ## Kodlar :
 
+Kodların tamamına [buradan](https://github.com/celikslab/TempandPulseMeter/blob/main/pulseandtemp.ino) ulaşabilirsiniz.
